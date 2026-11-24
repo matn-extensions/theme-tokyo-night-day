@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.tokyo_night_day",
+  "name": "Tokyo Night Day Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Daylight variant of Tokyo Night theme with cool blue hues",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-tokyo-night-day"
+}

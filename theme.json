@@ -1,0 +1,16 @@
+{
+  "name": "Tokyo Night Day",
+  "type": "light",
+  "author": "Matn Team",
+  "version": "1.0.0",
+  "colors": {
+    "bg": "#E6EAF2",
+    "barBg": "#D9DEE9",
+    "text": "#343B58",
+    "muted": "#848EA6",
+    "accent": "#34548C",
+    "activeLine": "#D5DBE8",
+    "cursor": "#8C4356",
+    "border": "#B4BBCB"
+  }
+}
